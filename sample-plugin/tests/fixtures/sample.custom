@@ -1,0 +1,7 @@
+This is a sample .custom file used for testing the MarkItDown sample plugin.
+
+It contains multiple lines of text to verify that the converter:
+1. Reads the file correctly
+2. Decodes UTF-8 content
+3. Wraps it in a fenced Markdown block
+4. Extracts the title from the first line
