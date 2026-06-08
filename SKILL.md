@@ -307,12 +307,3 @@ print(result.text_content)
 - Explore `scripts/convert_with_ai.py` for AI-enhanced conversions
 - Run `python scripts/plugin_template.py my-plugin --extensions .foo` to scaffold a new plugin
 
-## Resources
-
-- **MarkItDown GitHub**: https://github.com/microsoft/markitdown
-- **PyPI**: https://pypi.org/project/markitdown/
-- **OpenRouter**: https://openrouter.ai (for AI-enhanced conversions)
-- **OpenRouter API Keys**: https://openrouter.ai/keys
-- **OpenRouter Models**: https://openrouter.ai/models
-- **Plugin Development**: See `references/plugin_development.md`
-- **Sample Plugin**: See `sample-plugin/` directory

@@ -309,15 +309,6 @@ This skill was updated from direct OpenAI API to OpenRouter. Key changes:
 3. **Model Names**: `gpt-4o` → `openai/gpt-4o` (with provider prefix)
 4. **Script Updates**: All scripts now use OpenRouter by default
 
-## Resources
-
-- **OpenRouter Website**: https://openrouter.ai
-- **Get API Keys**: https://openrouter.ai/keys
-- **Model List**: https://openrouter.ai/models
-- **Pricing**: https://openrouter.ai/models (click on model for details)
-- **Documentation**: https://openrouter.ai/docs
-- **Support**: https://openrouter.ai/discord
-
 ## Example Workflow
 
 Here's a complete workflow using OpenRouter:

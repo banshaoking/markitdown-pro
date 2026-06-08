@@ -111,13 +111,6 @@ python scripts/plugin_template.py my-plugin --extensions .foo .bar
 - **Batch processing**: Parallel conversion with progress tracking
 - **Scientific workflows**: Literature conversion with metadata extraction
 
-## Resources
-
-- **MarkItDown GitHub**: https://github.com/microsoft/markitdown
-- **Plugin Guide**: `references/plugin_development.md`
-- **Sample Plugin**: `sample-plugin/`
-- **OpenRouter**: https://openrouter.ai
-
 ## Status
 
 **Status**: ✅ Complete and Ready to Use

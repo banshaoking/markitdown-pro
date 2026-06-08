@@ -77,10 +77,3 @@ pytest
 mypy src/
 ```
 
-## Resources
-
-- **MarkItDown GitHub**: https://github.com/microsoft/markitdown
-- **PyPI**: https://pypi.org/project/markitdown/
-- **OpenRouter**: https://openrouter.ai (AI model access)
-- **Plugin Guide**: See `references/plugin_development.md`
-- **Sample Plugin**: See `sample-plugin/` directory
